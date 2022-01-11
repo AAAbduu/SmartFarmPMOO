@@ -1,0 +1,396 @@
+ID56
+ID59
+ID62
+ID65
+ID68
+ID71
+ID74
+ID77
+ID80
+ID83
+ID86
+ID89
+ID92
+ID95
+ID98
+Hay 15 sensores.
+Path de los animales
+Chicken < Producer < FarmAnimal
+Chicken < Producer < FarmAnimal
+Chicken < Producer < FarmAnimal
+Chicken < Producer < FarmAnimal
+Chicken < Producer < FarmAnimal
+Latxa < Sheep < Producer < FarmAnimal
+Latxa < Sheep < Producer < FarmAnimal
+WoolSheep < Sheep < Producer < FarmAnimal
+WoolSheep < Sheep < Producer < FarmAnimal
+Cow < Producer < FarmAnimal
+Cow < Producer < FarmAnimal
+Cow < Producer < FarmAnimal
+Cow < Producer < FarmAnimal
+Cow < Producer < FarmAnimal
+Pig < FarmAnimal
+Pig < FarmAnimal
+Pig < FarmAnimal
+Horse < FarmAnimal
+Horse < FarmAnimal
+Horse < FarmAnimal
+Primero sin ordenar, luego ordenados.
+nombre: CHI34 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs true true
+nombre: CHI35 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs true true
+nombre: CHI36 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs true true
+nombre: CHI37 edad: 4 peso: 1.5 Sensor_id: ID00 Eggs false false
+nombre: CHI38 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs false false
+nombre: SHE40 edad: 5 peso: 45.0 Sensor_id: ID56 Milk true
+nombre: SHE41 edad: 3 peso: 47.0 Sensor_id: ID59 Milk true
+nombre: SHE42 edad: 12 peso: 45.0 Sensor_id: ID62 Wool false
+nombre: SHE43 edad: 4 peso: 46.0 Sensor_id: ID65 Wool false
+nombre: COW51 edad: 20 peso: 450.0 Sensor_id: ID68 Milk true
+nombre: COW52 edad: 15 peso: 500.0 Sensor_id: ID71 Milk true
+nombre: COW53 edad: 13 peso: 450.0 Sensor_id: ID74 Milk true
+nombre: COW54 edad: 11 peso: 550.0 Sensor_id: ID77 Milk false
+nombre: COW55 edad: 10 peso: 600.0 Sensor_id: ID80 Milk false
+nombre: PIG70 edad: 1 peso: 80.0 Sensor_id: ID83 false
+nombre: PIG71 edad: 1 peso: 100.0 Sensor_id: ID86 true
+nombre: PIG72 edad: 1 peso: 200.0 Sensor_id: ID89 true
+nombre: HOR60 edad: 10 peso: 300.0 Sensor_id: ID92 Work
+nombre: HOR61 edad: 7 peso: 300.0 Sensor_id: ID95 Ride
+nombre: HOR62 edad: 7 peso: 300.0 Sensor_id: ID98 Show
+Ahora ordenados: 
+nombre: CHI34 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs true true
+nombre: CHI35 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs true true
+nombre: CHI36 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs true true
+nombre: CHI37 edad: 4 peso: 1.5 Sensor_id: ID00 Eggs false false
+nombre: CHI38 edad: 1 peso: 1.5 Sensor_id: ID00 Eggs false false
+nombre: SHE40 edad: 5 peso: 45.0 Sensor_id: ID56 Milk true
+nombre: SHE41 edad: 3 peso: 47.0 Sensor_id: ID59 Milk true
+nombre: SHE42 edad: 12 peso: 45.0 Sensor_id: ID62 Wool false
+nombre: SHE43 edad: 4 peso: 46.0 Sensor_id: ID65 Wool false
+nombre: COW51 edad: 20 peso: 450.0 Sensor_id: ID68 Milk true
+nombre: COW52 edad: 15 peso: 500.0 Sensor_id: ID71 Milk true
+nombre: COW53 edad: 13 peso: 450.0 Sensor_id: ID74 Milk true
+nombre: COW54 edad: 11 peso: 550.0 Sensor_id: ID77 Milk false
+nombre: COW55 edad: 10 peso: 600.0 Sensor_id: ID80 Milk false
+nombre: PIG70 edad: 1 peso: 80.0 Sensor_id: ID83 false
+nombre: PIG71 edad: 1 peso: 100.0 Sensor_id: ID86 true
+nombre: PIG72 edad: 1 peso: 200.0 Sensor_id: ID89 true
+nombre: HOR60 edad: 10 peso: 300.0 Sensor_id: ID92 Work
+nombre: HOR61 edad: 7 peso: 300.0 Sensor_id: ID95 Ride
+nombre: HOR62 edad: 7 peso: 300.0 Sensor_id: ID98 Show
+
+Solicito 7 veces el registro de los animales
+CHI34
+HR: 69 Temp: 42.43 ºF, Activity: 5
+CHI35
+HR: 72 Temp: 42.83 ºF, Activity: 2
+CHI36
+HR: 60 Temp: 43.7 ºF, Activity: 2
+CHI37
+HR: 61 Temp: 42.33 ºF, Activity: 3
+CHI38
+HR: 78 Temp: 42.16 ºF, Activity: 4
+SHE40
+HR: 78 Temp: 39.41 ºF, Activity: 4
+SHE41
+HR: 61 Temp: 39.77 ºF, Activity: 2
+SHE42
+HR: 78 Temp: 40.81 ºF, Activity: 4
+SHE43
+HR: 68 Temp: 39.38 ºF, Activity: 5
+COW51
+HR: 74 Temp: 40.72 ºF, Activity: 2
+COW52
+HR: 75 Temp: 40.2 ºF, Activity: 2
+COW53
+HR: 62 Temp: 40.74 ºF, Activity: 3
+COW54
+HR: 78 Temp: 40.23 ºF, Activity: 1
+COW55
+HR: 68 Temp: 41.0 ºF, Activity: 3
+PIG70
+HR: 61 Temp: 39.7 ºF, Activity: 1
+PIG71
+HR: 73 Temp: 40.06 ºF, Activity: 3
+PIG72
+HR: 67 Temp: 39.15 ºF, Activity: 4
+HOR60
+HR: 77 Temp: 40.39 ºF, Activity: 2
+HOR61
+HR: 74 Temp: 39.31 ºF, Activity: 3
+HOR62
+HR: 70 Temp: 39.72 ºF, Activity: 4
+CHI34
+HR: 67 Temp: 43.11 ºF, Activity: 4
+CHI35
+HR: 69 Temp: 42.95 ºF, Activity: 4
+CHI36
+HR: 75 Temp: 43.04 ºF, Activity: 1
+CHI37
+HR: 73 Temp: 43.53 ºF, Activity: 4
+CHI38
+HR: 65 Temp: 42.03 ºF, Activity: 1
+SHE40
+HR: 76 Temp: 40.95 ºF, Activity: 1
+SHE41
+ERROR AL RECOLECTAR para el animal SHE41
+Aunque haya fallado he insistido y capturado para el animal:SHE41
+HR: 62 Temp: 39.53 ºF, Activity: 3
+SHE42
+HR: 68 Temp: 39.83 ºF, Activity: 2
+SHE43
+HR: 69 Temp: 39.25 ºF, Activity: 3
+COW51
+HR: 76 Temp: 39.36 ºF, Activity: 2
+COW52
+HR: 76 Temp: 39.33 ºF, Activity: 1
+COW53
+HR: 79 Temp: 40.25 ºF, Activity: 4
+COW54
+HR: 69 Temp: 40.84 ºF, Activity: 5
+COW55
+HR: 66 Temp: 40.2 ºF, Activity: 3
+PIG70
+HR: 62 Temp: 39.54 ºF, Activity: 1
+PIG71
+ERROR AL RECOLECTAR para el animal PIG71
+Aunque haya fallado he insistido y capturado para el animal:PIG71
+HR: 73 Temp: 40.79 ºF, Activity: 5
+PIG72
+HR: 62 Temp: 39.09 ºF, Activity: 1
+HOR60
+HR: 76 Temp: 39.52 ºF, Activity: 3
+HOR61
+HR: 67 Temp: 40.95 ºF, Activity: 5
+HOR62
+HR: 65 Temp: 39.26 ºF, Activity: 3
+CHI34
+HR: 73 Temp: 43.83 ºF, Activity: 2
+CHI35
+HR: 65 Temp: 43.25 ºF, Activity: 1
+CHI36
+HR: 76 Temp: 42.92 ºF, Activity: 5
+CHI37
+HR: 75 Temp: 42.18 ºF, Activity: 2
+CHI38
+HR: 71 Temp: 42.73 ºF, Activity: 1
+SHE40
+HR: 70 Temp: 40.47 ºF, Activity: 5
+SHE41
+HR: 63 Temp: 39.63 ºF, Activity: 3
+SHE42
+HR: 68 Temp: 40.96 ºF, Activity: 3
+SHE43
+HR: 67 Temp: 39.45 ºF, Activity: 1
+COW51
+HR: 79 Temp: 40.6 ºF, Activity: 4
+COW52
+HR: 76 Temp: 39.58 ºF, Activity: 4
+COW53
+HR: 79 Temp: 39.64 ºF, Activity: 2
+COW54
+HR: 70 Temp: 40.26 ºF, Activity: 3
+COW55
+HR: 71 Temp: 40.58 ºF, Activity: 3
+PIG70
+HR: 73 Temp: 40.97 ºF, Activity: 2
+PIG71
+HR: 73 Temp: 40.53 ºF, Activity: 5
+PIG72
+HR: 72 Temp: 39.5 ºF, Activity: 2
+HOR60
+HR: 76 Temp: 39.05 ºF, Activity: 1
+HOR61
+HR: 79 Temp: 39.83 ºF, Activity: 4
+HOR62
+HR: 77 Temp: 39.55 ºF, Activity: 2
+CHI34
+HR: 61 Temp: 43.34 ºF, Activity: 1
+CHI35
+HR: 76 Temp: 42.97 ºF, Activity: 3
+CHI36
+HR: 62 Temp: 43.34 ºF, Activity: 2
+CHI37
+HR: 64 Temp: 43.92 ºF, Activity: 5
+CHI38
+HR: 69 Temp: 43.0 ºF, Activity: 3
+SHE40
+HR: 65 Temp: 40.76 ºF, Activity: 5
+SHE41
+HR: 72 Temp: 39.42 ºF, Activity: 5
+SHE42
+HR: 64 Temp: 40.16 ºF, Activity: 3
+SHE43
+HR: 75 Temp: 40.37 ºF, Activity: 2
+COW51
+HR: 76 Temp: 40.42 ºF, Activity: 4
+COW52
+HR: 75 Temp: 40.23 ºF, Activity: 5
+COW53
+ERROR AL RECOLECTAR para el animal COW53
+Aunque haya fallado he insistido y capturado para el animal:COW53
+HR: 65 Temp: 40.06 ºF, Activity: 3
+COW54
+HR: 64 Temp: 40.37 ºF, Activity: 5
+COW55
+HR: 68 Temp: 40.52 ºF, Activity: 5
+PIG70
+HR: 72 Temp: 40.69 ºF, Activity: 5
+PIG71
+ERROR AL RECOLECTAR para el animal PIG71
+Aunque haya fallado he insistido y capturado para el animal:PIG71
+ERROR AL RECOLECTAR para el animal PIG71
+Aunque haya fallado he insistido y capturado para el animal:PIG71
+HR: 77 Temp: 40.78 ºF, Activity: 3
+PIG72
+ERROR AL RECOLECTAR para el animal PIG72
+Aunque haya fallado he insistido y capturado para el animal:PIG72
+HR: 74 Temp: 40.36 ºF, Activity: 2
+HOR60
+HR: 78 Temp: 40.19 ºF, Activity: 3
+HOR61
+HR: 76 Temp: 39.76 ºF, Activity: 2
+HOR62
+HR: 77 Temp: 40.3 ºF, Activity: 2
+CHI34
+HR: 63 Temp: 43.02 ºF, Activity: 5
+CHI35
+HR: 67 Temp: 42.42 ºF, Activity: 3
+CHI36
+ERROR AL RECOLECTAR para el animal CHI36
+Aunque haya fallado he insistido y capturado para el animal:CHI36
+HR: 77 Temp: 42.74 ºF, Activity: 5
+CHI37
+HR: 63 Temp: 43.8 ºF, Activity: 5
+CHI38
+HR: 74 Temp: 42.61 ºF, Activity: 4
+SHE40
+HR: 74 Temp: 39.1 ºF, Activity: 3
+SHE41
+HR: 67 Temp: 40.31 ºF, Activity: 2
+SHE42
+HR: 71 Temp: 40.26 ºF, Activity: 1
+SHE43
+HR: 76 Temp: 39.89 ºF, Activity: 2
+COW51
+HR: 73 Temp: 39.2 ºF, Activity: 3
+COW52
+ERROR AL RECOLECTAR para el animal COW52
+Aunque haya fallado he insistido y capturado para el animal:COW52
+HR: 68 Temp: 39.89 ºF, Activity: 1
+COW53
+HR: 76 Temp: 39.72 ºF, Activity: 5
+COW54
+HR: 62 Temp: 39.59 ºF, Activity: 2
+COW55
+HR: 68 Temp: 39.68 ºF, Activity: 5
+PIG70
+HR: 73 Temp: 40.1 ºF, Activity: 5
+PIG71
+HR: 74 Temp: 39.29 ºF, Activity: 2
+PIG72
+HR: 64 Temp: 39.13 ºF, Activity: 1
+HOR60
+HR: 72 Temp: 40.28 ºF, Activity: 2
+HOR61
+HR: 68 Temp: 40.32 ºF, Activity: 1
+HOR62
+HR: 67 Temp: 39.23 ºF, Activity: 2
+CHI34
+HR: 70 Temp: 42.52 ºF, Activity: 4
+CHI35
+HR: 65 Temp: 43.71 ºF, Activity: 5
+CHI36
+HR: 67 Temp: 43.52 ºF, Activity: 2
+CHI37
+HR: 68 Temp: 42.0 ºF, Activity: 4
+CHI38
+HR: 76 Temp: 43.96 ºF, Activity: 2
+SHE40
+HR: 71 Temp: 40.32 ºF, Activity: 4
+SHE41
+HR: 63 Temp: 39.12 ºF, Activity: 1
+SHE42
+HR: 63 Temp: 40.42 ºF, Activity: 4
+SHE43
+HR: 75 Temp: 39.16 ºF, Activity: 2
+COW51
+HR: 70 Temp: 39.18 ºF, Activity: 4
+COW52
+HR: 66 Temp: 40.72 ºF, Activity: 5
+COW53
+HR: 61 Temp: 40.68 ºF, Activity: 5
+COW54
+HR: 66 Temp: 39.7 ºF, Activity: 2
+COW55
+HR: 64 Temp: 40.84 ºF, Activity: 1
+PIG70
+HR: 64 Temp: 39.87 ºF, Activity: 4
+PIG71
+HR: 76 Temp: 40.96 ºF, Activity: 5
+PIG72
+HR: 71 Temp: 39.02 ºF, Activity: 5
+HOR60
+HR: 74 Temp: 40.08 ºF, Activity: 2
+HOR61
+HR: 69 Temp: 40.33 ºF, Activity: 1
+HOR62
+HR: 68 Temp: 39.23 ºF, Activity: 2
+CHI34
+HR: 73 Temp: 42.02 ºF, Activity: 2
+CHI35
+HR: 70 Temp: 42.34 ºF, Activity: 4
+CHI36
+HR: 70 Temp: 42.63 ºF, Activity: 4
+CHI37
+HR: 76 Temp: 42.25 ºF, Activity: 3
+CHI38
+HR: 71 Temp: 43.25 ºF, Activity: 5
+SHE40
+HR: 76 Temp: 39.83 ºF, Activity: 2
+SHE41
+HR: 72 Temp: 39.68 ºF, Activity: 2
+SHE42
+HR: 75 Temp: 40.65 ºF, Activity: 5
+SHE43
+HR: 69 Temp: 40.66 ºF, Activity: 1
+COW51
+ERROR AL RECOLECTAR para el animal COW51
+Aunque haya fallado he insistido y capturado para el animal:COW51
+HR: 79 Temp: 39.61 ºF, Activity: 5
+COW52
+HR: 75 Temp: 40.9 ºF, Activity: 2
+COW53
+HR: 76 Temp: 39.68 ºF, Activity: 1
+COW54
+HR: 64 Temp: 39.61 ºF, Activity: 1
+COW55
+ERROR AL RECOLECTAR para el animal COW55
+Aunque haya fallado he insistido y capturado para el animal:COW55
+HR: 78 Temp: 40.15 ºF, Activity: 4
+PIG70
+HR: 66 Temp: 40.42 ºF, Activity: 5
+PIG71
+HR: 61 Temp: 39.85 ºF, Activity: 5
+PIG72
+HR: 62 Temp: 40.73 ºF, Activity: 4
+HOR60
+HR: 67 Temp: 39.24 ºF, Activity: 4
+HOR61
+HR: 79 Temp: 39.12 ºF, Activity: 3
+HOR62
+HR: 68 Temp: 40.04 ºF, Activity: 1
+Posiblemente enfermos:
+El gasto anual es: 17442.5602
+Hay tantos animales ecologicos: 10
+Quedan tantos sensores: 0
+Animales que se marchan: 
+CHI37
+SHE42
+COW51
+PIG70
+PIG71
+PIG72
+HOR60
+HOR61
+HOR62
+Quedan tantos sensores: 8

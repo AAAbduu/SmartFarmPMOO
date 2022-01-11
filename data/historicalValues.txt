@@ -1,0 +1,32 @@
+nombre: COW51 edad: 20 peso: 450.0 Sensor_id: ID68 Milk true
+HR: 66 Temp: 40.83 ºF, Activity: 1
+HR: 60 Temp: 40.81 ºF, Activity: 2
+HR: 72 Temp: 40.72 ºF, Activity: 4
+HR: 78 Temp: 40.05 ºF, Activity: 4
+HR: 69 Temp: 40.5 ºF, Activity: 4
+HR: 73 Temp: 40.83 ºF, Activity: 5
+HR: 69 Temp: 40.82 ºF, Activity: 1
+nombre: COW53 edad: 13 peso: 450.0 Sensor_id: ID74 Milk true
+HR: 71 Temp: 40.84 ºF, Activity: 1
+HR: 78 Temp: 39.36 ºF, Activity: 5
+HR: 66 Temp: 40.85 ºF, Activity: 1
+HR: 67 Temp: 40.92 ºF, Activity: 2
+HR: 62 Temp: 40.78 ºF, Activity: 5
+HR: 60 Temp: 40.29 ºF, Activity: 3
+HR: 62 Temp: 40.55 ºF, Activity: 1
+nombre: HOR59 edad: 10 peso: 360.0 Sensor_id: ID92 work
+HR: 62 Temp: 40.75 ºF, Activity: 3
+HR: 75 Temp: 40.83 ºF, Activity: 1
+HR: 77 Temp: 40.98 ºF, Activity: 3
+HR: 70 Temp: 40.31 ºF, Activity: 1
+HR: 66 Temp: 40.24 ºF, Activity: 1
+HR: 78 Temp: 40.37 ºF, Activity: 1
+HR: 77 Temp: 40.04 ºF, Activity: 3
+nombre: COW52 edad: 15 peso: 500.0 Sensor_id: ID71 Milk true
+HR: 78 Temp: 40.89 ºF, Activity: 3
+HR: 72 Temp: 40.79 ºF, Activity: 2
+HR: 73 Temp: 40.25 ºF, Activity: 4
+HR: 70 Temp: 40.28 ºF, Activity: 4
+HR: 66 Temp: 40.35 ºF, Activity: 4
+HR: 72 Temp: 40.74 ºF, Activity: 2
+HR: 76 Temp: 40.88 ºF, Activity: 5
